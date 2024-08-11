@@ -42,6 +42,7 @@ Here are some of my favorite projects:
   
 - **[Project Name 2](https://github.com/yourusername/project2)**: Brief description.
 ![Programmer GIF](https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif)
+<br>
 ![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
