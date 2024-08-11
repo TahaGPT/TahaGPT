@@ -1,35 +1,52 @@
-<h1 align="center">Hi 👋, I'm Taha Ahmed</h1>
-<h3 align="center">A programmer i guess.</h3>
+<!-- Title and Intro -->
+# Welcome to My GitHub Profile! 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesbytaha&label=Profile%20views&color=0e75b6&style=flat" alt="codesbytaha" /> </p>
+![Welcome GIF](https://media.giphy.com/media/26gsspfBzzQVOHmgw/giphy.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesbytaha" alt="codesbytaha" /></a> </p>
+Hi there! I'm **[Your Name]**, a passionate developer and open-source enthusiast. I love to build cool projects, solve interesting problems, and contribute to the tech community.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on **Game Development**
+<!-- GitHub Readme Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning **Machine Learning**
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-- 👯 I’m looking to collaborate on **Database Projects**
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
-- 🤝 I’m looking for help with **Machine Learning**
+<!-- Activity Graph -->
+## 🌱 My Contribution Graph
 
-- ⚡ Fun fact **I am a Humanized GPT...**
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/taha ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha ahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codbot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tahagpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahagpt" height="30" width="40" /></a>
-</p>
+<!-- Badges and Skills -->
+## 🚀 Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesbytaha&show_icons=true&locale=en&layout=compact" alt="codesbytaha" /></p>
+<!-- Projects Showcase -->
+## 🛠️ My Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesbytaha&show_icons=true&locale=en" alt="codesbytaha" /></p>
+Here are some of my favorite projects:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesbytaha&" alt="codesbytaha" /></p>
+- **[Project Name 1](https://github.com/yourusername/project1)**: Brief description.
+  ![Project 1 GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
+  
+- **[Project Name 2](https://github.com/yourusername/project2)**: Brief description.
+  ![Project 2 GIF](https://media.giphy.com/media/xT9IguC6xzXq4dt7XO/giphy.gif)
 
+<!-- Contact -->
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Personal Website](https://yourwebsite.com)
+
+![Thank You GIF](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
