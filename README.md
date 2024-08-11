@@ -40,11 +40,11 @@
 
 <!-- Projects Showcase -->
 ## 🛠️ My Projects
+![Typing Fast](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 Here are some of my favorite projects:
 
 - **[The BlockBuster](https://github.com/CodesbyTaha/Game-Development)**: I crafted it using SFML. It begins as a captivating Netflix presentation and seamlessly transitions to the Block Movie, accompanied by a compelling soundtrack...
-![Typing Fast](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!-- <br>
 ![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
