@@ -1,6 +1,6 @@
 <!-- Title and Intro -->
 
-### ✍️ Random Dev Quote
+### Code Literature
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
