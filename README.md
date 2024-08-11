@@ -44,6 +44,12 @@ Here are some of my favorite projects:
 ![Debugging Code](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 ![Coffee and Code](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
 ![Infinite Loop](https://media.giphy.com/media/xT1R9J8Q6uqSiyIaNa/giphy.gif)
+![Coding Matrix](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+![Coding at Night](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
+![Stressed Programmer](https://media.giphy.com/media/l1J9wNfNeUTKsV5qo/giphy.gif)
+![Hacker Mode](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 <!-- Contact -->
