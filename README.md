@@ -7,7 +7,7 @@
 
 <p align="center">
   <h2 align = "center">Profile Views</h2>
-  <a href="https://profile-counter.glitch.me/CodesbyTaha/count.svg" align = "center"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
+  <a href="https://profile-counter.glitch.me/CodesbyTaha/count.svg" ><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"  align = "center"></a>
 </p>
 
 <p align="center">
