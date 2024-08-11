@@ -43,7 +43,7 @@
 
 Here are some of my favorite projects:
 
-- **[Project Name 1](https://github.com/yourusername/project1)**: Brief description.
+- **[The BlockBuster](https://github.com/CodesbyTaha/Game-Development)**: Brief description.
 ![Typing Fast](https://media.giphy.com/media/3o7aD3rLN7hR9oGzYs/giphy.gif)
 <!-- <br>
 ![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
