@@ -4,7 +4,9 @@
   </a>
 </p>
 <!-- Title and Intro -->
-
+<span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="pixel-night-banner" class="AnimatedImagePlayer-animatedImage" src="https://private-user-images.githubusercontent.com/90936436/275149211-fab74104-e85f-44fe-aa92-9eb7aba51e30.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNDkyMTEtZmFiNzQxMDQtZTg1Zi00NGZlLWFhOTItOWViN2FiYTUxZTMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4MWQ2MGI4Mjk3MTY4Y2Y5OTgxZDBkMjIzNTIzMzk5MDQyMmI2NzUyZmQ0MDViNjczY2QxZjg1YzY0MWU2NDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5uuqkjo_y6kRU8ER6PGZVWm_5zrKY7rC1vysK-vL7cw">
+          </span>
 
 <p align="center">
   <a href="https://git.io/typing-svg" rel="nofollow">
@@ -13,7 +15,9 @@
 </p>
 
 
-
+<span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="pixel-night-banner" class="AnimatedImagePlayer-animatedImage" src="https://private-user-images.githubusercontent.com/90936436/275149211-fab74104-e85f-44fe-aa92-9eb7aba51e30.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNDkyMTEtZmFiNzQxMDQtZTg1Zi00NGZlLWFhOTItOWViN2FiYTUxZTMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4MWQ2MGI4Mjk3MTY4Y2Y5OTgxZDBkMjIzNTIzMzk5MDQyMmI2NzUyZmQ0MDViNjczY2QxZjg1YzY0MWU2NDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5uuqkjo_y6kRU8ER6PGZVWm_5zrKY7rC1vysK-vL7cw">
+          </span>
 
 
 
