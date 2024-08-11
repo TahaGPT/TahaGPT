@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats -->
-<div style="display: flex;">
+<div style="display: flex; margin: 5px;">
   <img src="https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=radical" alt="Your GitHub stats" width = 410 height = 162 />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=radical" alt="GitHub Streak" width = 410 height  =162>
 
