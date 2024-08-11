@@ -1,5 +1,15 @@
 <!-- Title and Intro -->
-# Welcome to My GitHub Profile! 🌟
+# Welcome to My GitHub Profile! 👋
+
+![Welcome](https://img.shields.io/badge/Welcome%20to-My%20GitHub%20Profile!-brightgreen)
+
+---
+
+![Billboard Style](https://your-gif-or-svg-url.com)
+
+## About Me
+
+I'm a passionate developer who loves to code and create awesome projects.
 
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
