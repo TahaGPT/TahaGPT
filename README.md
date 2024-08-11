@@ -18,12 +18,12 @@
 
 <!-- GitHub Readme Stats -->
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=radical" alt="Your GitHub stats" width = 800 hieght = 500 />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=radical" alt="Your GitHub stats" width = 400 hieght = 150 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=radical" alt="GitHub Streak" width = 400 height  =150>
+
 </div>
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=radical" alt="GitHub Streak" width = 800 height  =500>
-</div>
+
 
 <!-- Top Languages -->
 <div align = "center">
