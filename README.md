@@ -1,7 +1,7 @@
 <!-- Title and Intro -->
 # Welcome to My GitHub Profile! 🌟
 
-![Welcome GIF](https://media.giphy.com/media/26gsspfBzzQVOHmgw/giphy.gif)
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 Hi there! I'm **[Your Name]**, a passionate developer and open-source enthusiast. I love to build cool projects, solve interesting problems, and contribute to the tech community.
 
@@ -38,10 +38,10 @@ Hi there! I'm **[Your Name]**, a passionate developer and open-source enthusiast
 Here are some of my favorite projects:
 
 - **[Project Name 1](https://github.com/yourusername/project1)**: Brief description.
-  ![Project 1 GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
+![Typing Fast](https://media.giphy.com/media/3o7aD3rLN7hR9oGzYs/giphy.gif)
   
 - **[Project Name 2](https://github.com/yourusername/project2)**: Brief description.
-  ![Project 2 GIF](https://media.giphy.com/media/xT9IguC6xzXq4dt7XO/giphy.gif)
+![Debugging Code](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 <!-- Contact -->
 ## 📫 Let's Connect!
