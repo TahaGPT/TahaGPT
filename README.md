@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodesbyTaha"><img src="https://komarev.com/ghpvc/?username=CodesbyTaha&color=ff69b4" alt="Profile Views"></a>
+  <h2>Profile Views</h2>
   <a href="https://profile-counter.glitch.me/CodesbyTaha/count.svg"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
 </p>
 
