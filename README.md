@@ -66,10 +66,13 @@ Here are some of my favorite projects:
 - **[Project Name 1](https://github.com/yourusername/project1)**: Brief description.
 ![Typing Fast](https://media.giphy.com/media/3o7aD3rLN7hR9oGzYs/giphy.gif)
   
-- **[Project Name 2](https://github.com/yourusername/project2)**: Brief description.
-![Programmer GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-<br>
-![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <a href="https://giphy.com/gifs/26tn33aiTi1jkl6H6" rel="nofollow">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing GIF" width="600">
+  </a>
+</p>
+<!-- <br>
+![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 
 
