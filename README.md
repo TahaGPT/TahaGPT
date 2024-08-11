@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/taha-ahmed-6aa265289/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.youtube.com/@injustice4313"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,ai,linux,md,netlify,vim,visualstudio,vscode" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,linux,visualstudio,vscode, ubuntu, windows, mongodb" alt="My Skills">
   </a>
 </p>
 
