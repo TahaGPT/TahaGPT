@@ -41,13 +41,7 @@ Here are some of my favorite projects:
 ![Typing Fast](https://media.giphy.com/media/3o7aD3rLN7hR9oGzYs/giphy.gif)
   
 - **[Project Name 2](https://github.com/yourusername/project2)**: Brief description.
-![Debugging Code](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-![Coffee and Code](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
-![Infinite Loop](https://media.giphy.com/media/xT1R9J8Q6uqSiyIaNa/giphy.gif)
-![Coding Matrix](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
-![Coding at Night](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
-![Stressed Programmer](https://media.giphy.com/media/l1J9wNfNeUTKsV5qo/giphy.gif)
-![Hacker Mode](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 ![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
