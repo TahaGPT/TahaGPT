@@ -42,6 +42,9 @@ Here are some of my favorite projects:
   
 - **[Project Name 2](https://github.com/yourusername/project2)**: Brief description.
 ![Debugging Code](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+![Coffee and Code](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+![Infinite Loop](https://media.giphy.com/media/xT1R9J8Q6uqSiyIaNa/giphy.gif)
+
 
 <!-- Contact -->
 ## 📫 Let's Connect!
@@ -50,4 +53,3 @@ Here are some of my favorite projects:
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
 
-![Infinite Loop](https://media.giphy.com/media/xT1R9J8Q6uqSiyIaNa/giphy.gif)
