@@ -20,7 +20,7 @@ Hi there! I'm **[Your Name]**, a passionate developer and open-source enthusiast
 <!-- Activity Graph -->
 ## 🌱 My Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CodesByTaha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Badges and Skills -->
