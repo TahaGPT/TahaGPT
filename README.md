@@ -68,7 +68,7 @@ Here are some of my favorite projects:
   
 <p align="center">
   <a href="https://giphy.com/gifs/26tn33aiTi1jkl6H6" rel="nofollow">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing GIF" width="600">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing GIF" width="1000">
   </a>
 </p>
 <!-- <br>
