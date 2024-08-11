@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,linux,visualstudio,vscode, ubuntu, windows, mongodb" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,linux,visualstudio,vscode,mongodb,ubuntu,pandas,sklearn,matplotlib,matlab,numpy" alt="My Skills">
   </a>
 </p>
 
