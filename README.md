@@ -29,13 +29,13 @@ Hi there! I'm **[Your Name]**, a passionate developer and open-source enthusiast
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyTaha&layout=compact&theme=radical)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=radical)
 
 <!-- Activity Graph -->
 ## 🌱 My Contribution Graph
