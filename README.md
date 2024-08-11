@@ -1,19 +1,19 @@
 <!-- Title and Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Sup+Mates+!;I'm+Your+Name;Your+Tagline;Computer+Science;Your+University+or+Workplace;Eager+to+Learn+Everything+at+Once" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Sup+Mates+!;I'm+Taha+Ahmed;Fullstack+Developer;Computer+Science;Learning+Everyday;Eager+to+Create+and+Innovate" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://your-link.com"><img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4" alt="Profile Views"></a>
-  <a href="https://profile-counter.glitch.me/{yourusername}/count.svg"><img src="https://profile-counter.glitch.me/{yourusername}/count.svg" alt="Visitor Count"></a>
+  <a href="https://github.com/CodesbyTaha"><img src="https://komarev.com/ghpvc/?username=CodesbyTaha&color=ff69b4" alt="Profile Views"></a>
+  <a href="https://profile-counter.glitch.me/CodesbyTaha/count.svg"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://www.linkedin.com/in/taha-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.youtube.com/@CodesbyTaha"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
+  <a href="https://twitter.com/CodesbyTaha"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 </p>
 
 <h2 align="center">Languages and Tools 🧰</h2>
@@ -23,8 +23,6 @@
     <img src="https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,vscode" alt="My Skills">
   </a>
 </p>
-
-<!-- Add more sections or customize as needed -->
 
 
 
