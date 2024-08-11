@@ -50,4 +50,4 @@ Here are some of my favorite projects:
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
 
-![Thank You GIF](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
+![Infinite Loop](https://media.giphy.com/media/xT1R9J8Q6uqSiyIaNa/giphy.gif)
