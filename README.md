@@ -1,7 +1,7 @@
 <!-- Title and Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Sup+Mates+!;I'm+Taha+Ahmed;Python+Developer;C+++Developer;Computer+Science+Student;Learning+Everyday;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Sup+Mates+!;I'm+Taha+Ahmed;Python+Developer;C++ +Developer;Computer+Science+Student;Learning+Everyday;" alt="Typing SVG">
   </a>
 </p>
 
@@ -12,15 +12,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.youtube.com/@CodesbyTaha"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
-  <a href="https://twitter.com/CodesbyTaha"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://www.youtube.com/@injustice4313"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 </p>
 
 <h2 align="center">Languages and Tools 🧰</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,vscode" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,ai,linux,md,netlify,vim,visualstudio,vscode" alt="My Skills">
   </a>
 </p>
 
