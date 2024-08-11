@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://giphy.com/gifs/26tn33aiTi1jkl6H6" rel="nofollow">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing GIF" width="1200", height = "500">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing GIF" width="1200", height = "300">
   </a>
 </p>
 <!-- Title and Intro -->
