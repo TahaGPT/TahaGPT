@@ -12,19 +12,8 @@
   </a>
 </p>
 
-<h2 align="center">Profile Views</h2>
-<p align="center">
-  <a href="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
-</p>
 
 
-<h2 align="center">Languages and Tools 🧰</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,linux,visualstudio,vscode,mongodb,ubuntu,matlab,sklearn" alt="My Skills">
-  </a>
-</p>
 
 
 
@@ -53,16 +42,6 @@ Hi there! I'm **[Your Name]**, a passionate developer and open-source enthusiast
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodesbyTaha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<!-- Badges and Skills -->
-## 🚀 Skills & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 <!-- Projects Showcase -->
 ## 🛠️ My Projects
 
@@ -70,11 +49,17 @@ Here are some of my favorite projects:
 
 - **[Project Name 1](https://github.com/yourusername/project1)**: Brief description.
 ![Typing Fast](https://media.giphy.com/media/3o7aD3rLN7hR9oGzYs/giphy.gif)
-  
 <!-- <br>
 ![Code Explosion](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 
+<h2 align="center">Languages and Tools 🧰</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,linux,visualstudio,vscode,mongodb,ubuntu,matlab,sklearn" alt="My Skills">
+  </a>
+</p>
 
 <!-- Contact -->
 ## 📫 Let's Connect!
@@ -89,6 +74,10 @@ Here are some of my favorite projects:
 <a href="https://www.leetcode.com/tahagpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahagpt" height="30" width="40" /></a>
 </p>
   
+<h2 align="center">Profile Views</h2>
+<p align="center">
+  <a href="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
+</p>
 ### Code Literature
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
