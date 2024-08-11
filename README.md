@@ -17,10 +17,10 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=radical)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=radical)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=radical" alt="Your GitHub stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=radical" alt="GitHub Streak" width="400" />
+</div>
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyTaha&layout=compact&theme=radical)
@@ -51,12 +51,6 @@ Here are some of my favorite projects:
   </a>
 </p>
 
-<!-- Contact -->
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="\https://www.linkedin.com/in/taha-ahmed-6aa265289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha ahmed" height="30" width="40" /></a>
