@@ -1,7 +1,5 @@
 <!-- Title and Intro -->
 
-### Code Literature
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
   <a href="https://git.io/typing-svg" rel="nofollow">
@@ -13,7 +11,12 @@
 <p align="center">
   <a href="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
 </p>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/taha ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha ahmed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codbot" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tahagpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahagpt" height="30" width="40" /></a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-ahmed-6aa265289/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.youtube.com/@injustice4313"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
@@ -85,4 +88,7 @@ Here are some of my favorite projects:
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
+  
+### Code Literature
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
