@@ -69,5 +69,5 @@ Here are some of my favorite projects:
   <a href="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg"><img src="https://profile-counter.glitch.me/{CodesbyTaha}/count.svg" alt="Visitor Count"></a>
 </p>
 ### Code Literature
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Qoutations](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
