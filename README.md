@@ -27,8 +27,8 @@
 
 <!-- GitHub Readme Stats -->
 <div style="display: flex;" margin: 5px;>
-  <img src="https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=tokyo-night" alt="Your GitHub stats" width = 410 height = 162 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=tokyo-night" alt="GitHub Streak" width = 410 height  =162>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesbyTaha&show_icons=true&theme=nightowl" alt="Your GitHub stats" width = 410 height = 162 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesbyTaha&theme=nightowl" alt="GitHub Streak" width = 410 height  =162>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <!-- Top Languages -->
 <div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyTaha&layout=compact&theme=tokyo-night"", alt = "Stats"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyTaha&layout=compact&theme=nightowl", alt = "Stats"/>
 </div>
 
 
