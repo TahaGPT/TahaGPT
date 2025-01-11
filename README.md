@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,github,linux,visualstudio,vscode,mongodb,ubuntu,matlab,sklearn" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,git,github,linux,visualstudio,vscode,mongodb,ubuntu,matlab,sklearn,apple," alt="My Skills">
   </a>
 </p>
 
@@ -60,9 +60,12 @@ Here are some of my favorite projects:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="\https://www.linkedin.com/in/taha-ahmed-6aa265289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha ahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@injustice4313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codbot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tahagpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahagpt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-ahmed-6aa265289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-ahmed-6aa265289/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@tahagpt0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tahagpt0" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tahaaahmed12115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tahaaahmed12115" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/tahagpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tahagpt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/tahagpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tahagpt/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/tahaaahmtq3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tahaaahmtq3n/" height="30" width="40" /></a>
 </p>
   
 <h2 align="center">Profile Views</h2>
