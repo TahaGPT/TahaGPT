@@ -41,12 +41,17 @@
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/90936436/275152362-b0885c98-6e49-4365-93f1-fd2fcaed194c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNTIzNjItYjA4ODVjOTgtNmU0OS00MzY1LTkzZjEtZmQyZmNhZWQxOTRjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjZTk0NjBiMjQ2ZGE4ZDg5ZTY1N2I1YTkyNjJmYzcyOTZiOTZiZDU0YmZhOWNkMWIzODg1MjNmMWY3Mzk2OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hTAGC1LaIIVXxjWZBFaiVia6yUAt2oUFTU4b-CYe5Q" data-target="animated-image.originalLink" previewlistener="true"><img src="https://private-user-images.githubusercontent.com/90936436/275152362-b0885c98-6e49-4365-93f1-fd2fcaed194c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNTIzNjItYjA4ODVjOTgtNmU0OS00MzY1LTkzZjEtZmQyZmNhZWQxOTRjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjZTk0NjBiMjQ2ZGE4ZDg5ZTY1N2I1YTkyNjJmYzcyOTZiOTZiZDU0YmZhOWNkMWIzODg1MjNmMWY3Mzk2OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hTAGC1LaIIVXxjWZBFaiVia6yUAt2oUFTU4b-CYe5Q" alt="borderseparator" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 <!-- Activity Graph -->
 ## 🌱 My Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TahaGPT&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/90936436/275152362-b0885c98-6e49-4365-93f1-fd2fcaed194c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNTIzNjItYjA4ODVjOTgtNmU0OS00MzY1LTkzZjEtZmQyZmNhZWQxOTRjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjZTk0NjBiMjQ2ZGE4ZDg5ZTY1N2I1YTkyNjJmYzcyOTZiOTZiZDU0YmZhOWNkMWIzODg1MjNmMWY3Mzk2OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hTAGC1LaIIVXxjWZBFaiVia6yUAt2oUFTU4b-CYe5Q" data-target="animated-image.originalLink" previewlistener="true"><img src="https://private-user-images.githubusercontent.com/90936436/275152362-b0885c98-6e49-4365-93f1-fd2fcaed194c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNTIzNjItYjA4ODVjOTgtNmU0OS00MzY1LTkzZjEtZmQyZmNhZWQxOTRjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjZTk0NjBiMjQ2ZGE4ZDg5ZTY1N2I1YTkyNjJmYzcyOTZiOTZiZDU0YmZhOWNkMWIzODg1MjNmMWY3Mzk2OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hTAGC1LaIIVXxjWZBFaiVia6yUAt2oUFTU4b-CYe5Q" alt="borderseparator" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
 <!-- Projects Showcase -->
 ## 🛠️ My Projects
 
@@ -58,6 +63,8 @@ Here are some of my favorite projects:
 
 <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/90936436/275152362-b0885c98-6e49-4365-93f1-fd2fcaed194c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNTIzNjItYjA4ODVjOTgtNmU0OS00MzY1LTkzZjEtZmQyZmNhZWQxOTRjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjZTk0NjBiMjQ2ZGE4ZDg5ZTY1N2I1YTkyNjJmYzcyOTZiOTZiZDU0YmZhOWNkMWIzODg1MjNmMWY3Mzk2OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hTAGC1LaIIVXxjWZBFaiVia6yUAt2oUFTU4b-CYe5Q" data-target="animated-image.originalLink" previewlistener="true"><img src="https://private-user-images.githubusercontent.com/90936436/275152362-b0885c98-6e49-4365-93f1-fd2fcaed194c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0MDUzNzIsIm5iZiI6MTcyMzQwNTA3MiwicGF0aCI6Ii85MDkzNjQzNi8yNzUxNTIzNjItYjA4ODVjOTgtNmU0OS00MzY1LTkzZjEtZmQyZmNhZWQxOTRjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE5Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjZTk0NjBiMjQ2ZGE4ZDg5ZTY1N2I1YTkyNjJmYzcyOTZiOTZiZDU0YmZhOWNkMWIzODg1MjNmMWY3Mzk2OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hTAGC1LaIIVXxjWZBFaiVia6yUAt2oUFTU4b-CYe5Q" alt="borderseparator" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-ahmed-6aa265289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-ahmed-6aa265289/" height="30" width="40" /></a>
@@ -67,18 +74,13 @@ Here are some of my favorite projects:
 <a href="https://www.leetcode.com/https://leetcode.com/u/tahagpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tahagpt/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/tahaaahmtq3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tahaaahmtq3n/" height="30" width="40" /></a>
 </p>
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
 <div align="center">
   <h2>Top Programming Languages</h2>
   <table>
     <tr>
-      <td align="center">
-        <a href="https://app.daily.dev/TahaGPT">
-          <img src="https://api.daily.dev/devcards/v2/IksW1Yr2Dr3Z9v7uInnka.png?type=default&r=ifc" 
-               width="356" alt="Taha's Dev Card" />
-        </a>
-      </td>
       <td align="center">
         <a href="https://github.com/TahaGPT/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaGPT&theme=gotham&langs_count=11" 
