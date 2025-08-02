@@ -119,6 +119,15 @@ Here are some of my favorite projects:
 
 
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
+ <div align="center">
+  <p>Leave a Cute Review in the Guest Book</p>
+  <a href="https://github.com/TahaGPT/TahaGPT/issues">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center">
+  </a>
+</div>
+
           
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
 
