@@ -114,7 +114,8 @@ Here are some of my favorite projects:
 
   
 <h2 align="center">Profile Views</h2>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TahaGPT&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TahaGPT&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
+
 
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
