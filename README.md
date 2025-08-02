@@ -116,6 +116,8 @@ Here are some of my favorite projects:
 
 ### Code Literature
 ![Qoutations](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
