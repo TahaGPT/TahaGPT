@@ -115,8 +115,7 @@ Here are some of my favorite projects:
 
 
 ### Code Literature
-![Qoutations](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;
+![Qoutations](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" style="max-width: 100%;">
 
 
 
