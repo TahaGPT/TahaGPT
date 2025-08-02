@@ -114,8 +114,7 @@ Here are some of my favorite projects:
 
   
 <h2 align="center">Profile Views</h2>
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/{TahaGPT}/count.svg)</p>
+![Visitor Count](https://profile-counter.glitch.me/{TahaGPT}/count.svg)
 
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
